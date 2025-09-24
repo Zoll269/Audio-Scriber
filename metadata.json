@@ -1,0 +1,7 @@
+{
+  "name": "Audio Transcriber & Analyzer",
+  "description": "An application to record audio, transcribe it using AI, generate summaries, action items, and highlights. Users can save and print professional reports of their recordings.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
